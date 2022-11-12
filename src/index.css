@@ -31,15 +31,6 @@
     width: 6%;
     cursor: pointer;
   }
-  .data_contaner{
-    /* display: inline-flex;
-    flex-direction: row; */
-  height: 100%;
-  width: 100%;
-  /* border: 2px solid green; */
-  margin: 30px;
-  margin-left: 200px;
-  }
   .Show_data{
     display: flex;
     flex-direction: row;
