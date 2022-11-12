@@ -32,7 +32,7 @@ const Api = () => {
       
         <div className='Main'>
             <div className='NavBar'>
-        <input onChange={(e) => { setQuery(e.target.value) }} type="text"></input>
+        <input onChange={(e) => { setQuery(e.target.value) }} type="text" placeholder='Search Recipe'/>
         <button onClick={() => { setIsClicked((prevState) => !prevState) }}>Search</button>
         </div>
          <div className='data_contaner'>
