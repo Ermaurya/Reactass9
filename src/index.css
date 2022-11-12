@@ -41,13 +41,13 @@
   margin-left: 200px;
   }
   .Show_data{
-    /* display:flex;
-    flex-direction: colume; */
-    /* justify-content: space-between; */
-    /* flex-wrap: wrap; */
-     padding: 30px;
-     gap: 25px;
-  justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    /* border: 3px solid red; */
+    flex-wrap: wrap;
+    padding: 30px;
+    gap: 25px;
+    justify-content: space-evenly;
   }
   .recipe{
     /* display: flex;
